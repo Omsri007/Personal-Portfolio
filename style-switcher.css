@@ -84,3 +84,9 @@
 .style-switcher .color-5{
     background: #f021b2;
 }
+
+@media(max-width:410px) {
+    .style-switcher .s-icon {
+        margin-right: 60px;
+    }
+}
