@@ -89,4 +89,8 @@
     .style-switcher .s-icon {
         margin-right: 60px;
     }
+    
+    .style-switcher .s-icon i {
+        color: black;
+    }
 }
